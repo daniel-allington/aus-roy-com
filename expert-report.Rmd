@@ -3,6 +3,9 @@ title: "Expert Report for the Royal Commission on Antisemitism and Social Cohesi
 author: "Daniel Allington"
 date: "2026-04-18"
 output: html_document
+bibliography: royal-commission.bib
+documentclass: article
+csl: chicago-fullnote-mod.csl
 ---
 
 ```{r setup, include=FALSE}
