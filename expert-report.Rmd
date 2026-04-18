@@ -20,15 +20,39 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # The International Holocaust Remembrance Alliance Working Definition of Antisemitism
 
-The International Holocaust Remembrance Alliance Working Definition of Antisemitism (henceforth, the IHRA Definition) states.
+The International Holocaust Remembrance Alliance Working Definition of Antisemitism (henceforth, the IHRA Definition) defines antisemitism as 'a certain perception of Jews, which may be expressed as hatred toward Jews' [@ihra_definition_2016, p. 1].
 
 The background to the IHRA definition.
+
+> Antisemitic acts are criminal when they are so defined by law ...
+
+> Criminal acts are antisemitic when the targets ... are selected because they are, or are perceived to be, Jewish or linked to Jews.
+
+> Antisemitic discrimination is the denial to Jews of opportunities or services available to others, and is illegal in many countries. [@ihra_definition_2016, p. 2]
 
 International adoption of the IHRA definition by governments and institutions.
 
 Use of the IHRA definition to determine whether conduct is or is not antisemitic.
 
 Controversies arising in relation to the IHRA Definition and its examples.
+
+> Manifestations might include the targeting of the state of Israel, conceived as a Jewish collectivity. However, criticism of Israel similar to that levelled against any other country cannot be regarded as antisemitic. Antisemitism frequently charges Jews with conspiring to harm humanity, and it is often used to blame Jews for 'why things go wrong'. It is expressed in speech, writing, visual forms and action, and employs sinister stereotypes and negative character traits. [@ihra_definition_2016, p. 1]
+
+Eleven specific examples, of which seven mention Israel:
+
+> Accusing the Jews as a people, or Israel as a state, of inventing or exaggerating the Holocaust.
+
+> Accusing Jewish citizens of being more loyal to Israel, or to the alleged priorities of Jews worldwide, than to the interests of their own nations.
+
+> Denying the Jewish people their right to self-determination, e.g., by claiming that the existence of a State of Israel is a racist endeavor.
+
+> Applying double standards by requiring of it a behavior not expected or demanded of any other democratic nation.
+
+>  Using the symbols and images associated with classic antisemitism (e.g., claims of Jews killing Jesus or blood libel) to characterize Israel or Israelis.
+
+> Drawing comparisons of contemporary Israeli policy to that of the Nazis.
+
+> Holding Jews collectively responsible for actions of the state of Israel. [@ihra_definition_2016, p. 2]
 
 # The main drivers of contemporary antisemitism in liberal democracies
 
