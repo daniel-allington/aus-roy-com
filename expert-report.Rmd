@@ -1,0 +1,38 @@
+---
+title: "Expert Report for the Royal Commission on Antisemitism and Social Cohesion"
+author: "Daniel Allington"
+date: "2026-04-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# What is antisemitism?
+
+# Similarities and differences between antisemitism and other prejudices against racial, ethnic, and national groups
+
+# Should governmental responses to antisemitism be based on a particular definition of antisemitic conduct?
+
+# The International Holocaust Remembrance Alliance Working Definition of Antisemitism
+
+The International Holocaust Remembrance Alliance Working Definition of Antisemitism (henceforth, the IHRA Definition) states.
+
+The background to the IHRA definition.
+
+International adoption of the IHRA definition by governments and institutions.
+
+Use of the IHRA definition to determine whether conduct is or is not antisemitic.
+
+Controversies arising in relation to the IHRA Definition and its examples.
+
+# The main drivers of contemporary antisemitism in liberal democracies
+
+Similarities and differences with regard to earlier periods in history.
+
+# Zionism, antizionism, and antisemitism
+
+# Antisemitism as a threat to Jews
+
+# Antisemitism as a threat to social cohesion in liberal democracies
