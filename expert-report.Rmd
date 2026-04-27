@@ -16,6 +16,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Similarities and differences between antisemitism and other prejudices against racial, ethnic, and national groups
 
+Antisemitism is a mythology that has built up over many centuries, with distinct and enduring contributions from different cultures at different times. Moreover, this mythology does not simply concern supposed actions or characteristics of the Jews themselves. Rather, it purports to explain the condition of the _entire world_, according Jews and their alleged crimes a central place in world history. Thus, while any religious, ethnic, or national group may become the object of prejudice and undeserved hostility, anti-Jewish bigotry is unique in that it is founded on an ancient, but constantly evolving body of counter-factual belief concerning the world as a whole.
+
 # Should governmental responses to antisemitism be based on a particular definition of antisemitic conduct?
 
 # The International Holocaust Remembrance Alliance Working Definition of Antisemitism
@@ -57,6 +59,8 @@ Eleven specific examples, of which seven mention Israel:
 # The main drivers of contemporary antisemitism in liberal democracies
 
 Similarities and differences with regard to earlier periods in history.
+
+Antisemitism 
 
 # Zionism, antizionism, and antisemitism
 
