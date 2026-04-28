@@ -12,10 +12,14 @@ csl: "chicago-fullnote-mod.csl"
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+
+library(dplyr)
+library(knitr)
+library(kableExtra)
 ```
 
 # What is antisemitism?
-Antisemitism is a mythology that has built up over many centuries, with distinct and enduring contributions from different cultures at different times. Moreover, this mythology does not simply concern supposed actions or characteristics of the Jews themselves. Rather, it purports to explain the condition of the _entire world_, according Jews and their alleged crimes a central place in world history.
+Antisemitism is a mythology that has built up over many centuries, with distinct and enduring contributions from different cultures at different times. Moreover, this mythology does not simply concern supposed actions or characteristics of the Jews themselves. Rather, it purports to explain the condition of the _entire world_, according Jews and their alleged crimes a central role in world history.
 
 The primary historical currents ...
 
@@ -88,6 +92,55 @@ Similarities and differences with regard to earlier periods in history.
 Antisemitism 
 
 # Zionism, antizionism, and antisemitism
+
+> Classical antisemitism was anti-assimilationist: Jews were constructed as an alien minority incapable of belonging within European nation-states. Antizionism, by contrast, is structurally assimilationist: Jews may exist as individuals or as a religion, but Jewish nationhood and sovereignty are treated as illegitimate. Sovereignty becomes the offense. This inversion produces a systematic reclassification of the Jew—from infiltrating minority to colonizing majority—and generates a new set of cultural codings that are inverse to classical antisemitic constructions. [@louis-klein_antizionism_2026, n.p.]
+
+> Early texts from the 1920s by Alfred Rosenberg—later one of the central Nazi propagandists—framed the 'Zionist menace' as an invasion of Palestine, decades before Patrick Wolfe's formulation of settler-colonial 'invasion'.  Rosenberg applied classical antisemitic notions of Jewish 'conquest', found in 19th century antisemites such as Wilhelm Marr and Eduard Drumont, equally to Jewish presence in Germany and to Jewish settlement in Palestine. [@louis-klein_antizionism_2026, n.p.]
+
+Inverse Cultural Categories: Antisemitism and Antizionism
+
+| Antisemitism | Antizionism |
+| ------------ | ----------- |
+| Rejection of Jews as minority | Rejection of Jewish majority-state' |
+| Non-white, oriental, semitic | White settler, European |
+| Jews as communists, Judeo-Bolsheviks | Jews as fascists, ultra-nationalists| 
+| Tends to reject token Jews | Invests heavily in token Jews |
+| Logics of elimination, physical genocide | Assimilation, cultural genocide |
+| Uses biological sciences as authorisation | Uses social sciences as authorization' |
+| Jews as a race | 'Zionism\' as an ideology |
+| Jews infiltrate European states | Jews colonize non-European peoples |
+| Exaggerates Jewish distinctiveness| Erases Jewish distinctiveness |
+
+| Common logics |
+| :-----------: |
+| Jews as liars, manipulative, deceptive |
+| Jews aligned with power and domination |
+
+[@louis-klein_antizionism_2026, n.p.]
+
+> In practice, nearly all definitions of antisemitism—IHRA, JDA, Nexus—presume that the task is to determine when antizionism 'crosses the line' into antisemitism. While this is often framed as distinguishing legitimate criticism from anti-Jewish bigotry, it effectively legitimizes antizionism by default as a form of criticism, recognizing only classical antisemitism as bigotry.
+
+> The 'line crossing' is typically marked by echoes of historical antisemitism: media and government control, dual-loyalty accusations, or racial infiltration. Only when antizionism resembles these older patterns does it 'count' as bigotry. Meanwhile, the specific libels that define antizionism—colonizer, apartheid, genocide, white-coding—are cast as political or moral critique. 
+
+> When the discourse turns to Israeli policy, or even Israel's right to exist, the framework shifts to concerns about 'double standards', or to Natan Sharansky's 'three D's' (delegitimization, demonization, and double standards).  Yet the core libels and symbolic structure of antizionism remain unnamed. There is a widespread assumption that 'antisemitic tropes' exist --- money, secret power, media control --- but not that there are distinctive antizionist tropes: white coloniser, Jewish supremacist, genocidaire. The same problems plague the category of 'political antisemitism', which does not specifically name antizionist libels but instead assumes that classical antisemitic tropes have simply been projected onto Israel. While such projection does sometimes occur, this framework fails to identify the specific ideological content of antizionist hate in the contemporary. In this way, the possibility that antizionism constitutes a distinct, contemporary formation of anti-Jewish bigotry is foreclosed in advance—by making antisemitism the generic category and classical antisemitism the normative model of hate. [@louis-klein_antizionism_2026, n.p.]
+
+> Antizionism is ... not classical antisemitism projected onto Israel but a distinct ideological and symbolic complex whose core nucleus consists of the colonizer, apartheid, and genocide libels. Recognizing this requires moving beyond the 'line-crossing' frameworks that anchor the analysis in classical antisemitism. [@louis-klein_antizionism_2026, n.p.]
+
+'antizionism is a new form of Judeophobia only in the sense that what stands between the Jew haters and their enemy (the Jew) has changed', such that 'Israel is merely the new obstacle that stands between Judeophobes and the fulfilment of their unsubstantiated hatred against the Jews' [@fuchshuber_wilhelm_2019, p. 35].
+
+> The genocide accusation against Israel is precisely aimed at delegitimizing the state. It is to single it out as a state different from others. The ... determination of genocide ... is not based on the application [of] the strict legal doctrinal requirement of proving the intent to destroy. The attempt to argue that statements by Netanyahu, Gallant and Herzog amount to evidence of that intent involves taking the words out of context [and] ignoring that all three are talking about Hamas ... . It is particularly grotesque given the genocidal intent of the Islamic Republic of Iran and its proxies, that Israel is accused of the very crime that it is the victim of. [@strawson_israel_2026, n.p.]
+
+> There is little doubt that the concept 'antisemitism' is used often as generic shorthand for th[e] entire history [of anti-Judaic _praxis_], from its earliest
+beginnings in classical and pagan times through to the present. At other times, however, it refers uniquely to the modern period beginning sometime in the latter part of the nineteenth century. [@seymour_continuity_2019, p. 12]
+
+> antizionists stress a radical discontinuity between the two. They argue that, even if traces remain, antisemitism ended in the mid-twentieth century, coinciding with the end of the Holocaust and the defeat of Nazism. This view is accompanied often by the belief that Jews are today, fully and finally, not only assimilated into their host countries, but also share the same privileges as the most dominant sectors of those societies. [@seymour_continuity_2019, p. 12]
+
+> antizionism subsumes the antisemitism(s) of the past just as 'modern' or 'classic' antisemitism contained within it earlier, premodern forms of anti-Judaic praxis. In this way, any implication that non-antisemitic antizionism is legitimate can be challenged. I am arguing, in other words, that antizionism can never be legitimate contemporary political speech in the way that anti-Zionism may have been in the nineteenth century through to the mid-twentieth century. [@seymour_continuity_2019, p. 13]
+
+>  that which the demonological Jew once was in older forms of antisemitism, demonological Israel now is in contemporary antisemitic anti-Zionism: uniquely malevolent, full of blood lust, all-controlling, the hidden hand, tricksy, always acting in bad faith, the obstacle to a better, purer, more spiritual world, uniquely deserving of punishment, and so on. [@johnson_written_2016, parag. 1.3]
+
+> The necessity of recognising the existence of the ideology of antizionism as connected to, but distinct from, the ideology of antisemitism is more than a matter of semantics. The ideology of antizionism represents a new and novel 'reconfiguration' of the Jewish question. Although the nature of its anti-Jewish nature remains constant, its particular form and content is intimately connected to the specificities of Jewish emancipation. As much as Jewish emancipation adopts new forms so too does the ideological form of the Jewish question alter. In content and form, the ideology of antisemitism emerged and crystallized precisely at the moment Jews finally gained emancipation within the nation-state, achieved national self-determination. Moreover, antizionism, like antisemitism, was itself a combination of the old and the new, of continuity and discontinuity. Israel is new to the world and so too is the response from, and shape of, the Jewish question. The ideology of antizionism is that response. What is called for is not the subsumption of antizionism beneath antisemitism.
+What is needed is recognition of the ways in which the ideology of antizionism has incorporated the ideology of antisemitism. [@seymour_continuity_2019, p. 22]
 
 # Antisemitism as a threat to Jews
 
