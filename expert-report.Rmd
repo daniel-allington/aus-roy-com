@@ -2,10 +2,12 @@
 title: "Expert Report for the Royal Commission on Antisemitism and Social Cohesion"
 author: "Daniel Allington"
 date: "2026-04-18"
-output: html_document
-bibliography: royal-commission.bib
+output:
+  word_document: default
+  html_document: default
+bibliography: "royal-commission.bib"
 documentclass: article
-csl: chicago-fullnote-mod.csl
+csl: "chicago-fullnote-mod.csl"
 ---
 
 ```{r setup, include=FALSE}
@@ -17,6 +19,12 @@ knitr::opts_chunk$set(echo = FALSE)
 # Similarities and differences between antisemitism and other prejudices against racial, ethnic, and national groups
 
 Antisemitism is a mythology that has built up over many centuries, with distinct and enduring contributions from different cultures at different times. Moreover, this mythology does not simply concern supposed actions or characteristics of the Jews themselves. Rather, it purports to explain the condition of the _entire world_, according Jews and their alleged crimes a central place in world history. Thus, while any religious, ethnic, or national group may become the object of prejudice and undeserved hostility, anti-Jewish bigotry is unique in that it is founded on an ancient, but constantly evolving body of counter-factual belief concerning the world as a whole.
+
+For example, Samoans are at times subject to bigotry in Australia. However, this is typically on the basis of a racist assumption that they are 'violent, unmotivated, and government-dependent' [@radclyffe_fob_2024, p. 1070]: a stereotype very similar to stereotypes applied to many other immigrant groups both in Australia and around the world. It would be extremely surprising if a Samoan were to be attacked on the basis of a belief that Samoans are more loyal to Samoa than to Australia, or that Samoans have since ancient times been opposed to the attacker's religion, or that the Samoan government is fascist, or that the Samoan army kills non-Samoan children, or that Samoans and their supporters have an excessive influence on the Australian government --- and perhaps also the governments of other world powers. The very idea of such an attack is bizarre, even ridiculous. Only Jews are targeted on such a basis. 
+
+This point can be illustrated with ... . In 2024, the Attorney General's office was vandalised, with the words 'Who does AG Mark Dreyfus serve?' being painted on the pavement outside [@buckley_antisemitic_2025], invoking the longstanding antisemitic trope of Jewish loyalty to international Jewish interests. A few months later, the office of Josh Burns --- another Australian Jewish politician --- was attacked by arsonists who spray-painted horns onto a photograph of Burns and added the slogan the words 'Zionism is fascism' [@abc_activists_2024]. This combines pseudo-political discourse with 13th century European depictions of Jews as demonic horned figures [@bertman_antisemitic_2009].
+
+Sydney suburb of Woollahra saw a number of arson attacks combined with anti-Israel graffiti [@buckley_antisemitic_2025, n.p.], while Mount Sinai College was vandalised with the messages 'fuck the Jews', 'killers', and 'merderers [sic]' [@buckley_antisemitic_2025, n.p.; @willan_heightened_2025, 00:15].
 
 # Should governmental responses to antisemitism be based on a particular definition of antisemitic conduct?
 
