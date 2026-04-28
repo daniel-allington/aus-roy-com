@@ -19,6 +19,25 @@ library(kableExtra)
 ```
 
 # What is antisemitism?
+In its everyday sense, the word 'antisemitism' simply means '[p]rejudice, hostility, or discrimination against Jewish people' [@oed_antisemitism_2025, sense 1]. It is an Anglicisation of the German term, _Antisemitismus_, which was coined by Wilhelm Marr: a radical leftist, strongly influenced by anarchism, who was active in late 20th century Germany.
+
+Unlike Christian Jew-haters, who took issue above all with the religion of Judaism, Marr --- an atheist --- was also opposed to Jewish cultural influence on Germany, which he saw as a form of 'foreign domination' [@musiedlak_wilhelm_2021, p. 83-84]. Marr understood the people of Europe to be divided into three 'races', which he named the Slavic, the Latin, and the Germanic [@zimmermann_wilhelm_1986, p. 66]. These terms were of course linguistic in origin, being the names of the transnational families into which the languages spoken by members of these 'races'. At the time when Marr began to lay out his paranoid fantasies of European domination by Jews, he used the word 'Asianism' to describe this supposed political system, but, in his later works, he came to call it 'Semitism' [@zimmermann_wilhelm_1986, p. 67-68], after the Semitic language family, which includes Hebrew. 'Antisemitism' thus referred to a politics of opposition to the state of affairs in which --- according to Marr --- 'Jewry ruled the world, spiritually as well as commercially', via 'the press and the stock market' [@zimmermann_wilhelm_1986, p. 69].
+
+'hope[d] that Israel w[ould] award [him] a medal of honour for recognising its power to rule the world' [p. 69]
+
+'Humanity was Judaised by Christianity' and that, in consequence, 'Judaism rules the world' 
+
+[Quoted in @zimmermann_wilhelm_1986, p. 74]
+
+'anti-Jewishness'
+
+with the 1944 edition of the _Handbuch der Judenfrage_ (Handbook of the Jewish Question) stating that the term 'antisemitism' is 'unsuitable, ... for the reason that there are other peoples with Semitic languages, such as the Arabs, who stand in complete opposition to the Jews' [Quoted in @zimmermann_wilhelm_1986, p. 113-115].
+
+> There is little doubt that the concept 'antisemitism' is used often as generic shorthand for th[e] entire history [of anti-Judaic _praxis_], from its earliest
+beginnings in classical and pagan times through to the present. At other times, however, it refers uniquely to the modern period beginning sometime in the latter part of the nineteenth century. [@seymour_continuity_2019, p. 12]
+
+'antizionism is a new form of Judeophobia only in the sense that what stands between the Jew haters and their enemy (the Jew) has changed', such that 'Israel is merely the new obstacle that stands between Judeophobes and the fulfilment of their unsubstantiated hatred against the Jews' [@fuchshuber_wilhelm_2019, p. 35].
+
 Antisemitism is a mythology that has built up over many centuries, with distinct and enduring contributions from different cultures at different times. Moreover, this mythology does not simply concern supposed actions or characteristics of the Jews themselves. Rather, it purports to explain the condition of the _entire world_, according Jews and their alleged crimes a central role in world history.
 
 The primary historical currents ...
@@ -126,12 +145,7 @@ Inverse Cultural Categories: Antisemitism and Antizionism
 
 > Antizionism is ... not classical antisemitism projected onto Israel but a distinct ideological and symbolic complex whose core nucleus consists of the colonizer, apartheid, and genocide libels. Recognizing this requires moving beyond the 'line-crossing' frameworks that anchor the analysis in classical antisemitism. [@louis-klein_antizionism_2026, n.p.]
 
-'antizionism is a new form of Judeophobia only in the sense that what stands between the Jew haters and their enemy (the Jew) has changed', such that 'Israel is merely the new obstacle that stands between Judeophobes and the fulfilment of their unsubstantiated hatred against the Jews' [@fuchshuber_wilhelm_2019, p. 35].
-
 > The genocide accusation against Israel is precisely aimed at delegitimizing the state. It is to single it out as a state different from others. The ... determination of genocide ... is not based on the application [of] the strict legal doctrinal requirement of proving the intent to destroy. The attempt to argue that statements by Netanyahu, Gallant and Herzog amount to evidence of that intent involves taking the words out of context [and] ignoring that all three are talking about Hamas ... . It is particularly grotesque given the genocidal intent of the Islamic Republic of Iran and its proxies, that Israel is accused of the very crime that it is the victim of. [@strawson_israel_2026, n.p.]
-
-> There is little doubt that the concept 'antisemitism' is used often as generic shorthand for th[e] entire history [of anti-Judaic _praxis_], from its earliest
-beginnings in classical and pagan times through to the present. At other times, however, it refers uniquely to the modern period beginning sometime in the latter part of the nineteenth century. [@seymour_continuity_2019, p. 12]
 
 > antizionists stress a radical discontinuity between the two. They argue that, even if traces remain, antisemitism ended in the mid-twentieth century, coinciding with the end of the Holocaust and the defeat of Nazism. This view is accompanied often by the belief that Jews are today, fully and finally, not only assimilated into their host countries, but also share the same privileges as the most dominant sectors of those societies. [@seymour_continuity_2019, p. 12]
 
