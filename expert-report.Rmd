@@ -21,7 +21,18 @@ library(kableExtra)
 # What is antisemitism?
 As the Oxford English Dictionary makes clear, the word 'antisemitism' refers, in its everyday sense, to '[p]rejudice, hostility, or discrimination against Jewish people' [@oed_antisemitism_2025, sense 1]. However, scholars often use the word in a more specific sense, refering not to 'th[e] entire history [of anti-Jewish _praxis_], from its earliest beginnings in classical and pagan times through to the present', but rather to the bigotry and persecution faced by Jews in Europe and its diaspora during a specific historical period which 'beg[an] sometime in the latter part of the nineteenth century' [@seymour_continuity_2019, p. 12]. A discussion of why this is the case may serve to clarify much about the nature of Jew-hate, and also to elucidate key debates over the term itself.
 
-From the Middle Ages, Europe's Jewish minority had been oppressed on religious grounds: understood to bear historic guilt for the killing of Jesus Christ, and accused of practising witchcraft, worshiping the devil, and murdering non-Jewish children in order to consume their blood [@trachtenberg_devil_1943]. The Enlightenment brought the emancipation of the Jews, which some non-Jews resented. Needing a less obviously superstitious or theological justification for this resentment
+Until the end of the 18th century, Jews were almost universally oppressed on religious grounds. In Europe, full legal rights were available only to Christians, and a range of superstitions arose from the idea that Jews bore historic guilt for the killing of Jesus Christ: they were customarily accused of practising witchcraft, worshiping the devil, and murdering non-Jewish children in order to consume their blood [@trachtenberg_devil_1943]. In the Muslim world, Jews were permitted to reside only as _dhimmis_: second-class subjects of the ruler, unable to rely on the full protection of the law, yet obliged to pay a special tax and to follow often humiliating restrictions designed to reinforce their precarious and inferior status [@lewis_jews_1987, p. 14; @gilbert_ishmaels_2011, p. 87-88]. However, after the Enlightenment, Jews began to achieve emancipation. In 1791, France became the first Christian country to grant full rights to Jews was France. At various points in the 19th century, most European countries outside the Russian Empire followed, with the Ottoman Empire granting rights to Jews and formally abolishing the _dhimma_ system in a series of reforms beginning in 1839.
+
+Such superstitions were discredited during the Enlightenment, which also brought recognition that it was wrong 
+
+
+which some non-Jews resented. Needing a less obviously superstitious or theological justification for this resentment
+
+The Jews of France were emancipated in 1791
+
+Ottoman Empire 1839
+
+Jews of what is now Germany were emancipated at various dates in the 19th century, depending on where they resided
 
 > The myth of the Jewish world-conspiracy represents a modern adaptation of this ancient demonological tradition. According to this myth, there exists a secret Jewish government which, though a world-wide network of camouflaged agencies and organisations, controls political parties and governments, the press and public opinion, banks and econo-//mic developments. The secret government is supposed to be doing this in pursuance of an age-old plan and with the single aim of achieving Jewish dominion over the entire world; and it is also supposed to be perilously near to achieving this aim. [@cohn_warrant_1967, p. 22-23]
 
@@ -39,6 +50,14 @@ This was the intellectual millieu in which Marr came to see Jewish influence on 
 
 > These are all historical-cultural facts, so unique in their aspects, so  awesome, that it is impossible to dispute them using everyday polemics. The proud Roman Empire has not been able to win such triumphs with all the might of its arms, as has typical Semitism won in the Occident and particularly in Germany. [@marr_victory_1879_2009, p. 23-24]
 
+> Germanism did not possess sufficient spiritual endurance to protect itself from Judaization and so Germany turned step by step into the new promised land for Semites which came flooding here from Spain, Portugal and Poland to augment the already resident Jewry.
+
+> This tribe, the Jews, possessed throughout its history by a theocratic fervor not found among any other people and whose theocratic code of behavior in war and peace was dreadful, transformed all of its destructive potential into new forms and using these, vanquished the Occident, a victory it could not achieve in the Orient using fire and sword. 
+
+> ...
+
+> ... The Jew has no real religion, he has a business contract with Jehovah and pays his god with statutes and formulations and in return is charged with the pleasant task of exterminating all that is not Jewish. ... [O]ur outlook is none other than a time when we Germans will live as slaves under the legal and political feudalism of Judaism [@marr_victory_1879_2009, p. 14]
+
 Thus, while Christian Jew-haters had seen Jews as ancient enemies of Christ, drinking Christian blood and using the forbidden power of sorcery in the service of Satan, the atheist Marr saw Jews as ancient enemies of the three European 'races', exploiting European labour in the service of their own shallow materialist ends. Although Marr was far from being the first writer to imagine the hidden hand of an international Jewish conspiracy behind every bad thing in the world, he was the first to transform this conspiracy fantasy into a rallying cry for what his biographer called 'a war against the Jews' [@zimmermann_wilhelm_1986, p. 78]. Because 'Semitism' was by this point Marr's preferred word for Jewishness, he naturally used the word 'antisemitism' (or, in the original German, _Antisemitismus_) to describe the political programme that he laid out from 1879 onwards. Although Marr himself fell into obscurity, that programme provided the ideological foundation for National Socialism, or Nazism.
 
 Marr was happy to identify as an antisemite, but many later adherents of his programme preferred to refer to their politics by alternative names. Indeed, the 1944 edition of Theodor Fritsch's _Handbook of the Jewish Question_ --- by that point, a standard Nazi text --- rejected the term 'antisemitism' as 'unsuitable, ... for the reason that there are other peoples with Semitic languages, such as the Arabs, who stand in complete opposition to the Jews' [Quoted in @zimmermann_wilhelm_1986, p. 113-115]. Nonetheless, the name stuck, and moreover broadened in meaning, such that it not only continued to denote the specific anti-Jewish politics of Marr and the Nazis, but also became the usual word by which to refer to _any_ form of anti-Jewish action, sentiment, or ideation, whilst at the same time continuing to denote --- for many scholars of the field --- the ideological anti-Jewishness which arose in 19th Century Europe.
@@ -47,9 +66,29 @@ The above context is vitally important in order to make sense of key scholarly d
 
 It is important to understand that the mythology of antisemitism does not simply concern the alleged actions or characteristics of the Jews. Rather, it purports to explain the history and present condition of the _entire world_, according Jews and their alleged crimes a central but villainous role in the story of the human race. It is only through an appreciation of this mythology that it is possible to make sense of many crimes which target Jews, and of the often heroic self-image of the perpetrators, who typically see themselves not as lashing out against innocent and often defenceless individuals, but as striking a blow against an almost cosmic evil whose destruction is necessary for the redemption of the world as a whole. For example, an official Nazi Party publication declared in 1937 that 'Jewry's ruthless drive for world domination was stopped only by National Socialism' [Quoted in @bytwerk_believing_2015, p. 214].
 
-This ideological tradition has unfortunately been one of the west's most successful cultural exports. 
+This ideological tradition has unfortunately been one of Germany's most successful exports. 
 
-[EARLY MUSLIM ANTISEMITISM.] [NAZI PROPAGANDA.] [ISLAMIST ANTISEMITISM.]
+although Jews continued to be cruelly oppressed in many other Muslim-majority territories, such as Persia [@lewis_jews_1987, p. 105, 167-168, 181-183; @gilbert_ishmaels_2011, p. 101, 105, 121-123, 129-131].
+
+Jews seeking self-determination [@gilbert_ishmaels_2011, p. 131, 135–139, 147, 157-158].
+
+Well-documented Nazi propaganda for the Muslim world [@kuntzel_jihad_2007; @herf_nazi_2009; @kuntzel_nazis_2024].
+
+> To my Muslim brothers of the whole world, I present the history and true experience that Jews cannot deny. The verses from the Quran and the hadiths prove to you that the Jews have been the most bitter foes of Islam and are still trying to destroy it. Do not believe them, they know only hypocrisy and guile.
+
+> Keep together, fight for the Islamic idea, fight for your religion and existence! Do not rest until your land is free from the Jews!
+
+> Do not tolerate the partition plan, for Palestine has been for centuries an Arab country and must remain so. [Translation published in @kuntzel_nazis_2024, p. 136]
+
+The similarities between this and Marr's 
+
+> For a long time, the enemies have been planning, skillfully and with precision, for the achievement of what they have attained. ... With their money, they took control of the world media, news agencies, the press, publishing houses, broadcasting stations, and others. With their money, they stirred revolutions in various parts of the world with the purpose of achieving their interests and reaping the fruit therein. They were behind the French Revolution, the Communist revolution, and most of the revolutions we heard and hear about, here and there. With their money they formed secret societies ... for the purpose of sabotaging societies and achieving Zionist interests. ...
+
+> You may speak as much as you want about regional and world wars. ... There is no war going on anywhere, without having their finger in it. [@hamas_covenant_1988, art. 22]
+
+In a 2010 broadcast on Al-Aqsa TV, Mahmoud al-Zahar, at that time the Foreign Minister of the Hamas government in Gaza, expressed a wish not to be outdone by the Nazis:
+
+> We are no weaker or less honourable than the people that expelled and annihilated the Jews. ... [T]here is no place for you among us, and you have no future among the nations of the world. You are headed to annihilation. [Quoted in @spoerl_parallels_2020, p. 220]
 
 The historically complex nature of Jew-hate can be seen from a brief consideration of recent crimes in Australia targeting Jews and locations associated with Jews. In 2024, the office of the then Attorney General, Mark Drefus was vandalised, with the words 'Who does AG Mark Dreyfus serve?' being painted on the pavement outside [@buckley_antisemitic_2025]. Although the _occasion_ of this attack was the Israel-Hamas war, it functioned by invoking the longstanding antisemitic trope of Jewish loyalty to supposed international Jewish interests (as seen in Marr's polemics, and also in more influential antisemitic works, such as the _Protocols of the Elders of Zion_). A few months later, the office of Josh Burns --- another Jewish politician --- was attacked by arsonists who spray-painted horns onto a photograph of Burns and added the slogan, 'Zionism is fascism' [@abc_activists_2024]. This act of vandalism combined pseudo-political discourse with 13th century European depictions of Jews as demonic horned figures [@bertman_antisemitic_2009]. Shortly afterwards, the Sydney suburb of Woollahra, known for its large Jewish minority, saw a number of arson attacks combined with anti-Israel graffiti [@buckley_antisemitic_2025, n.p.], while Mount Sinai College --- a Jewish school --- was vandalised not only with the message 'fuck the Jews' but also with the words 'killers' and 'merderers [sic]' [@buckley_antisemitic_2025, n.p.; @willan_heightened_2025, 00:15]: accusations which may have been occasioned by the Israel-Hamas war, but which date back to Medieval Europe.  
 
