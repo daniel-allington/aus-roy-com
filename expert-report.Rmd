@@ -21,50 +21,35 @@ library(kableExtra)
 # What is antisemitism?
 As the Oxford English Dictionary makes clear, the word 'antisemitism' refers, in its everyday sense, to '[p]rejudice, hostility, or discrimination against Jewish people' [@oed_antisemitism_2025, sense 1]. However, scholars often use the word in a more specific sense, refering not to 'th[e] entire history [of anti-Jewish _praxis_], from its earliest beginnings in classical and pagan times through to the present', but rather to the bigotry and persecution faced by Jews in Europe and its diaspora during a specific historical period which 'beg[an] sometime in the latter part of the nineteenth century' [@seymour_continuity_2019, p. 12]. A discussion of why this is the case may serve to clarify much about the nature of Jew-hate, and also to elucidate key debates over the term itself.
 
-Until the end of the 18th century, Jews were almost universally oppressed on religious grounds. In Europe, full legal rights were available only to Christians, and a range of superstitions arose from the idea that Jews bore historic guilt for the killing of Jesus Christ: they were customarily accused of practising witchcraft, worshiping the devil, and murdering non-Jewish children in order to consume their blood [@trachtenberg_devil_1943]. In the Muslim world, Jews were permitted to reside only as _dhimmis_: second-class subjects of the ruler, unable to rely on the full protection of the law, yet obliged to pay a special tax and to follow often humiliating restrictions designed to reinforce their precarious and inferior status [@lewis_jews_1987, p. 14; @gilbert_ishmaels_2011, p. 87-88]. However, after the Enlightenment, Jews began to achieve emancipation. In 1791, France became the first Christian country to grant full rights to Jews was France. At various points in the 19th century, most European countries outside the Russian Empire followed, with the Ottoman Empire granting rights to Jews and formally abolishing the _dhimma_ system in a series of reforms beginning in 1839.
+Until the end of the 18th century, Jews were almost universally oppressed on religious grounds. In Europe, full legal rights were available only to Christians, and a range of superstitions arose from the idea that Jews bore historic guilt for the killing of Jesus Christ: they were customarily accused of practising witchcraft, worshiping the devil, and murdering non-Jewish children in order to consume their blood [@trachtenberg_devil_1943]. In the Muslim world, Jews were permitted to reside only as _dhimmis_: second-class subjects of the ruler, unable to rely on the full protection of the law, yet obliged to pay a special tax and to follow often humiliating restrictions designed to reinforce their precarious and inferior status [@lewis_jews_1987, p. 14; @gilbert_ishmaels_2011, p. 87-88]. However, after the Enlightenment, Jews began to achieve emancipation. In 1791, France became the first Christian country to grant full rights to Jews. Over the next hundred years, most European countries outside the Russian Empire followed suit, and, while much of the Muslim world lagged behind in this respect, the Ottoman Empire abolished the _dhimma_ system in a series of reforms beginning in 1839 and spanning several decades.
 
-Such superstitions were discredited during the Enlightenment, which also brought recognition that it was wrong 
+It was during this period that the myth of a worldwide Jewish conspiracy began. As Norman Cohn explains in the classic study, this myth 'represents a modern adaptation of th[e] ancient demonological tradition' of Christian anti-Judaism, and holds that
 
+> there exists a secret Jewish government which, though a world-wide network of camouflaged agencies and organisations, controls political parties and governments, the press and public opinion, banks and economic developments. The secret government is supposed to be doing this in pursuance of an age-old plan and with the single aim of achieving Jewish dominion over the entire world; and it is also supposed to be perilously near to achieving this aim. [@cohn_warrant_1967, p. 22-23]
 
-which some non-Jews resented. Needing a less obviously superstitious or theological justification for this resentment
+France was, as noted above, the first country to give full rights to Jews, and it was in France that the Jewish conspiracy myth appears first to have germinated, expressed in a forged letter purporting to have been written by a Florentine army officer by the name of J.B. Simonini, and addressed in 1806 to l'Abbé Barruel, the author of a conspiracy theory attributing the French Revolution to the machinations of the Freemasons and the Bavarian Illuminati [@cohn_warrant_1967, p. 27]. The Jews of what is now Germany were emancipated at different points in the 19th century, depending on where they resided, and it was among German writers from the 1860s onwards that the idea really took root. 
 
-The Jews of France were emancipated in 1791
+Hermann Goedsche's 1868 novel _Biarritz_, published under the pseudonym of Sir John Retcliffe, included a chapter in which a group of rabbis plot to complete their fiendish takeover of the world [@cohn_warrant_1967, p. 34-36]. With minor adaptations, this text was later republished as the supposed real words of a leading rabbi [@cohn_warrant_1967, p. 36-37], from which Tsarist agents would later plagiarise much of the content of _The Protocols of the Elders of Zion_: a literary forgery falsely presented as the record of a speech given by Theodor Herzl at the 1897 First Zionist Congress [@cohn_warrant_1967, p. 69]. It was also in Germany that the myth became embedded in an anti-Jewish political programme, in the works of a radical left-wing writer called Wilhelm Marr.
 
-Ottoman Empire 1839
+Marr understood the people of Europe to be divided into three 'races', which he dubbed the 'Slavic', the 'Latin', and the 'Germanic' [@zimmermann_wilhelm_1986, p. 66]. This terminology was linguistic in origin, these being the names of the transnational families into which fell the languages spoken by members of these supposed 'races'. For Marr, 'race' was more a matter of culture than of biology, and he referred to the characteristic culture of the 'Germanic race' as _Germanenthum_, generally translated as 'Germanism' or 'Germanicness', which --- with its antiquarian implications --- could be placed in opposition to cultural traditions whose origins lay elsewhere in the world [@mees_hitler_2004, p. 258]. Seeing Jewish participation in German cultural life not in terms of emancipation but as 'foreign domination' [@musiedlak_wilhelm_2021, p. 83-84], Marr thus employed a number of terms in order to describe what he saw as the alien culture of German Jews. As well as _Judenthum_ or 'Judaism' (which, in German as in English, had the disadvantage of being the name of the Jewish religion), Marr sometimes described Jewish culture as 'Asianism' [@zimmermann_wilhelm_1986, p. 66-68]. However, he came to prefer the term 'Semitic', which brought Jews into his framework of linguistically-named races (as it was the name of the family to which the Jewish language of Hebrew belonged), and provided the derived word _Semitismus_, i.e. 'Semitism', to denote Jewish culture. In his hugely influential 1879 pamphlet, _The Victory of Judaism over Germanism: Viewed from a Nonreligious Point of View_, Marr argued that the secret conquest of Europe by Jews --- 'a tribe ... which ... was thoroughly hated by all the peoples of the Orient' [@marr_victory_1879_2009, p. 10] --- had begun during the reign of the Roman Emperor Titus, who accidentally prompted a turn from military conflict with other Middle Eastern peoples to social corruption of Europeans [@marr_victory_1879_2009, p. 8-9], amongst whom those of the 'Germanic race' would prove particularly vulnerable:
 
-Jews of what is now Germany were emancipated at various dates in the 19th century, depending on where they resided
+> Germanism did not possess sufficient spiritual endurance to protect itself from Judaisation, and so Germany turned step by step into the new promised land for Semites ...
 
-> The myth of the Jewish world-conspiracy represents a modern adaptation of this ancient demonological tradition. According to this myth, there exists a secret Jewish government which, though a world-wide network of camouflaged agencies and organisations, controls political parties and governments, the press and public opinion, banks and econo-//mic developments. The secret government is supposed to be doing this in pursuance of an age-old plan and with the single aim of achieving Jewish dominion over the entire world; and it is also supposed to be perilously near to achieving this aim. [@cohn_warrant_1967, p. 22-23]
-
-> In 1806, [the Abbé Barruel] received ... a letter from Florence, ostensibly written by an army officer called J. B. Simonini, of whom nothing else is known and with whom Barruel himself failed to establish contact. After congratulating Barruel on having 'unmasked the hellish sects which are preparing the way for Antichrist', he draws his attention to 'the Judaic sect' --- surely 'the most formidable power, if one considers its great wealth and the protection it enjoys in almost all European countries'. [@cohn_warrant_1967, p. 27]
-
-However, this idea did not catch on until the 1860s, with German writers such as Hermann Goedsche, whose 1868 novel _Biarritz_ included a chapter in which a group of leading rabbis plot to complete their fiendish takeover of the world [@cohn_warrant_1967, p. 34-36]. With minor adaptations, this text was later republished as the real words of a powerful rabbi [@cohn_warrant_1967, p. 36-37], from which Tsarist agents would later plagiarise much of the content of _The Protocols of the Elders of Zion_: a literary forgery falsely presented as the record of a speech given by Theodor Herzl at the 1897 First Zionist Congress [@cohn_warrant_1967, p. 69]. 
-
-This was the intellectual millieu in which Marr came to see Jewish influence on Germany as a form of 'foreign domination' [@musiedlak_wilhelm_2021, p. 83-84]. Marr understood the people of Europe to be divided into three 'races', which he dubbed the Slavic, the Latin, and the Germanic [@zimmermann_wilhelm_1986, p. 66]. This terminology was linguistic in origin, these being the names of the transnational families into which fell the languages spoken by members of these supposed 'races'. To emphasise the alien, non-European origins of the Jewish people, Marr initially referred to Jews as 'Asian', using the word 'Asianism' to describe the culture which he saw them as having imposed on Europe [@zimmermann_wilhelm_1986, p. 66-68]. However, by the time of his 1879 pamphlet, _The Victory of Judaism over Germanism_, he had come to refer to Jews as 'Semitic' --- this being the name of the language family to which the Jewish language of Hebrew belonged --- and to use the word 'Semitism' to describe the cultural and economic practices by which they had --- in his view --- secretly conquered Europe, from the time of the Emperor Titus onwards:
-
-> Foreign rule has been thrust upon us. 1800 years lasted the battle against Jewish domination ... . ... Starting from modest beginnings, [the Semitic people] outgrew you, it corrupted society in all of its aspects, squeezed all idealism out of it, occupies the most controlling influence in trade and daily life, penetrates ever more into public office, controls the theatre, forms a social-political front, and has left almost nothing for you, except raw labour, which it itself has always shunned; it has tranformed talent into shiny virtuosity, pimpish advertising into the goddess of public opinion and --- rules you today.
+> This tribe, the Jews ... transformed all of its destructive potential into new forms and using these, vanquished the Occident, a victory it could not achieve in the Orient using fire and sword. 
 
 > ...
 
-> We harbour a resilient, tough, intelligent, foreign tribe among us, who knows how to take advantage of every form of abstract reality. It is not the individual Jew, it is Jewish spirit and Jewish awareness which have taken over the world. ... 
+> ... [O]ur outlook [today] is none other than a time when we Germans will live as slaves under the legal and political feudalism of Judaism. [@marr_victory_1879_2009, p. 14]
 
-> These are all historical-cultural facts, so unique in their aspects, so  awesome, that it is impossible to dispute them using everyday polemics. The proud Roman Empire has not been able to win such triumphs with all the might of its arms, as has typical Semitism won in the Occident and particularly in Germany. [@marr_victory_1879_2009, p. 23-24]
+Although Marr was far from being the first writer to imagine the hidden hand of an international Jewish conspiracy behind every bad thing in the world, he was the first to transform this paranoid fantasy into a rallying cry for what many of his contemporaries would see as a justified 'war against the Jews' [@zimmermann_wilhelm_1986, p. 78]. Because 'Semitism' was by this point Marr's preferred word for Jewishness, he naturally used the word 'antisemitism' (or, in the original German, _Antisemitismus_) to describe the political programme that he subsequently laid out. That programme provided the much of the ideological foundation for National Socialism, or Nazism --- which also revived the concept of Germanism, although Hitler himself preferred to promote the supposedly more ancient culture of 'Aryanism' [@mees_hitler_2004].
 
-> Germanism did not possess sufficient spiritual endurance to protect itself from Judaization and so Germany turned step by step into the new promised land for Semites which came flooding here from Spain, Portugal and Poland to augment the already resident Jewry.
+Marr was happy to identify as an antisemite, but many later adherents of his programme preferred to refer to their politics by alternative names. Indeed, the 1944 edition of Theodor Fritsch's _Handbook of the Jewish Question_ --- by that point, a standard Nazi text --- rejected the term 'antisemitism' as 'unsuitable, ... for the reason that there are other peoples with Semitic languages, such as the Arabs, who stand in complete opposition to the Jews' [Quoted in @zimmermann_wilhelm_1986, p. 113-115]. Nonetheless, the name stuck, and, moreover broadened in meaning, such that it not only continued to denote the specific anti-Jewish politics of Marr and the Nazis, but also became the usual word by which to refer to _any_ form of anti-Jewish action, sentiment, or ideation, whilst at the same time continuing to denote --- for many scholars of the field --- the ideological anti-Jewishness which arose in 19th Century Europe.
 
-> This tribe, the Jews, possessed throughout its history by a theocratic fervor not found among any other people and whose theocratic code of behavior in war and peace was dreadful, transformed all of its destructive potential into new forms and using these, vanquished the Occident, a victory it could not achieve in the Orient using fire and sword. 
+Within the context of this report, the above discussion serves two main purposes. Firstly, it reveals the distinctive character of contemporary Jew-hate, as an ideological movement which emerged in response to the specific historical conditions of the emancipation of European and Middle Eastern Jewry. As I shall show below, it is this ideological underpinning which gives modern Jew-hate its characteristic signature. Secondly, it clarifies the reason for the historically restrictive use of the word 'antisemitism' by some scholars. This is particularly important if sense is to be made of debates over the relationship between antizionism and antisemitism.
 
-> ...
+# Zionism, antizionism, and antisemitism
+Antisemitism --- in this sense --- is not simply a matter of dislike or ill-feeling towards a particular ethno-religious group, but of dislike and ill-feeling founded on a mythology that has built up over many centuries, with distinct and enduring contributions from different cultures at different times. 
 
-> ... The Jew has no real religion, he has a business contract with Jehovah and pays his god with statutes and formulations and in return is charged with the pleasant task of exterminating all that is not Jewish. ... [O]ur outlook is none other than a time when we Germans will live as slaves under the legal and political feudalism of Judaism [@marr_victory_1879_2009, p. 14]
-
-Thus, while Christian Jew-haters had seen Jews as ancient enemies of Christ, drinking Christian blood and using the forbidden power of sorcery in the service of Satan, the atheist Marr saw Jews as ancient enemies of the three European 'races', exploiting European labour in the service of their own shallow materialist ends. Although Marr was far from being the first writer to imagine the hidden hand of an international Jewish conspiracy behind every bad thing in the world, he was the first to transform this conspiracy fantasy into a rallying cry for what his biographer called 'a war against the Jews' [@zimmermann_wilhelm_1986, p. 78]. Because 'Semitism' was by this point Marr's preferred word for Jewishness, he naturally used the word 'antisemitism' (or, in the original German, _Antisemitismus_) to describe the political programme that he laid out from 1879 onwards. Although Marr himself fell into obscurity, that programme provided the ideological foundation for National Socialism, or Nazism.
-
-Marr was happy to identify as an antisemite, but many later adherents of his programme preferred to refer to their politics by alternative names. Indeed, the 1944 edition of Theodor Fritsch's _Handbook of the Jewish Question_ --- by that point, a standard Nazi text --- rejected the term 'antisemitism' as 'unsuitable, ... for the reason that there are other peoples with Semitic languages, such as the Arabs, who stand in complete opposition to the Jews' [Quoted in @zimmermann_wilhelm_1986, p. 113-115]. Nonetheless, the name stuck, and moreover broadened in meaning, such that it not only continued to denote the specific anti-Jewish politics of Marr and the Nazis, but also became the usual word by which to refer to _any_ form of anti-Jewish action, sentiment, or ideation, whilst at the same time continuing to denote --- for many scholars of the field --- the ideological anti-Jewishness which arose in 19th Century Europe.
-
-The above context is vitally important in order to make sense of key scholarly debates on antisemitism --- debates to which this report will be returning below. Moreover, it provides a helpful introduction to antisemitism as it exists today, and to what makes it such a unique form of hatred. This is because, even if we are to use the word 'antisemitism' in its everyday sense, i.e. as a synonym of 'Jew-hate', the specific form of hate that is typically directed at Jews has been shaped on a very deep level by political history. Antisemitism --- in this sense --- is not simply a matter of dislike or ill-feeling towards a particular ethno-religious group, but of dislike and ill-feeling founded on a mythology that has built up over many centuries, with distinct and enduring contributions from different cultures at different times. 
-
-It is important to understand that the mythology of antisemitism does not simply concern the alleged actions or characteristics of the Jews. Rather, it purports to explain the history and present condition of the _entire world_, according Jews and their alleged crimes a central but villainous role in the story of the human race. It is only through an appreciation of this mythology that it is possible to make sense of many crimes which target Jews, and of the often heroic self-image of the perpetrators, who typically see themselves not as lashing out against innocent and often defenceless individuals, but as striking a blow against an almost cosmic evil whose destruction is necessary for the redemption of the world as a whole. For example, an official Nazi Party publication declared in 1937 that 'Jewry's ruthless drive for world domination was stopped only by National Socialism' [Quoted in @bytwerk_believing_2015, p. 214].
 
 This ideological tradition has unfortunately been one of Germany's most successful exports. 
 
@@ -89,78 +74,6 @@ The similarities between this and Marr's
 In a 2010 broadcast on Al-Aqsa TV, Mahmoud al-Zahar, at that time the Foreign Minister of the Hamas government in Gaza, expressed a wish not to be outdone by the Nazis:
 
 > We are no weaker or less honourable than the people that expelled and annihilated the Jews. ... [T]here is no place for you among us, and you have no future among the nations of the world. You are headed to annihilation. [Quoted in @spoerl_parallels_2020, p. 220]
-
-The historically complex nature of Jew-hate can be seen from a brief consideration of recent crimes in Australia targeting Jews and locations associated with Jews. In 2024, the office of the then Attorney General, Mark Drefus was vandalised, with the words 'Who does AG Mark Dreyfus serve?' being painted on the pavement outside [@buckley_antisemitic_2025]. Although the _occasion_ of this attack was the Israel-Hamas war, it functioned by invoking the longstanding antisemitic trope of Jewish loyalty to supposed international Jewish interests (as seen in Marr's polemics, and also in more influential antisemitic works, such as the _Protocols of the Elders of Zion_). A few months later, the office of Josh Burns --- another Jewish politician --- was attacked by arsonists who spray-painted horns onto a photograph of Burns and added the slogan, 'Zionism is fascism' [@abc_activists_2024]. This act of vandalism combined pseudo-political discourse with 13th century European depictions of Jews as demonic horned figures [@bertman_antisemitic_2009]. Shortly afterwards, the Sydney suburb of Woollahra, known for its large Jewish minority, saw a number of arson attacks combined with anti-Israel graffiti [@buckley_antisemitic_2025, n.p.], while Mount Sinai College --- a Jewish school --- was vandalised not only with the message 'fuck the Jews' but also with the words 'killers' and 'merderers [sic]' [@buckley_antisemitic_2025, n.p.; @willan_heightened_2025, 00:15]: accusations which may have been occasioned by the Israel-Hamas war, but which date back to Medieval Europe.  
-
-These examples (from which I have intentionally left out the massacre which prompted the official inquiry to which this report responds) illustrate two key points. The first is that contemporary acts of Jew-hate are saturated with historical baggage, and as such can only be understood by reference to the whole history of Jew-hate. The second is that, as at earlier stages in history, attacks on individual Jews are often rationalised in terms of the supposed evils of a Jewish or 'Zionist' collective. Whether we are to refer to this phenomenon as 'antisemitism' or as something else (and, for the sake of comprehensibility, this report will from this point onwards use the word 'antisemitism' in its ordinary sense, as defined by the Oxford English Dictionary at the beginning of this section), it is necessary to acknowledge these fundamental ideas.
-
-This is, indeed, the only way in which it is possible to understand the statement issued by Iran-backed Islamist group Harakat Ashab al-Yamin al-Islamia on the occasion of the stabbing of two visibly Jewish men in London while this report was in preparation:
-
-> Zionists were targeted by our lone wolves in the Golders Green area of London. The heroic act left two Zionists critically wounded and on the brink of death ...
-
-> Historically, the Jews are the killers of Jesus Christ, and today, the Zionists are the killers of innocent women and children.
-
-> We call upon all free people in the world, especially Muslims, to carry out qualitative operations in defense of humanity, occupied Palestine, al-Aqsa Mosque, and the prisoners. Furthermore, anyone who is able to kill Zionists should not hesitate. [Quoted in @starr_wounded_2026, n.p.]
-
-How is it possible to identify knife attacks against random members of the British public --- apparently singled out, in one case, on the basis of his religious clothing, and, in the other, on the basis of his having emerged from a place of worship --- as 'qualitative operations in defense of humanity'? It is possible because this has been the logic of antisemitism for centuries.
-
-# Similarities and differences between antisemitism and other prejudices against racial, ethnic, and national groups
-While any religious, ethnic, or national group may become the object of prejudice and undeserved hostility, antisemitism is unique in that it is founded on an ancient, but constantly evolving body of counter-factual belief concerning the world as a whole. The difference between antisemitism and other forms of group-based hate in this regard may be illustrated by example. Here, I have arbitrarily chosen the example of prejudice and hostility faced by Australians of Samoan origin.
-
-Anti-Samoan bigotry is typically founded on a racist assumption that Samoans (and other indigenous Polynesians) are 'violent, unmotivated, and government-dependent' [@radclyffe_fob_2024, p. 1070]. This stereotype is very similar to stereotypes applied to many other immigrant groups, both in Australia and around the world. It would be extremely surprising to see anti-Samoan graffiti suggesting that Samoans are more loyal to Samoa than to Australia, or that Samoans are enemies of God, or that the Samoan government is fascist, or that the Samoan army kills non-Samoan children, or that Samoans and their supporters have an excessive influence on the Australian government --- and perhaps also the governments of other world powers. It would be still more surprising to see attacks on random Samoans justified as 'qualitative operations in defense of humanity'. The idea is bizarre, even verging on the ridiculous. Only Jews are spoken about in this way.
-
-Where other minority groups are targeted, this is often on the basis of a barely-examined xenophobic tendency to see the majority community as superior. But where Jews are targeted, this is typically on the basis of a longstanding network of interlocking beliefs about world history and politics: beliefs which may play an analogous role to religious faith (as in the case of the atheist Wilhelm Marr) or which may in turn be deeply interlocked with religious faith (as in the case of the Christian and Muslim antisemites discussed above). Individuals and political movements are likely to go to much greater lengths in their attacks and persecutions if they see their target as irredeemably evil, supremely powerful, and a threat to the entire world, than if they are motivated simply by a small-minded dislike of people different from themselves. This is, ultimately, why Nazi Germany perpetrated the Holocaust, and why the Islamic Republic has forced the people of Iran into penury for the sake of an unwinnable proxy war against Israel.
-
-None of this should be taken to imply that targeting of Jews is inherently _worse_ than the targeting of any other group: vandalism is vandalism, arson is arson, assault is assault, and murder is murder. What it means is that the targeting of Jews is motivated a peculiar way, and that this motivation is often very deeply ingrained, being strongly integrated with an individual's worldview, politics, and social identity. History shows us the extraordinary lengths to which Jew-haters have often been willing to go.
-
-# Should governmental responses to antisemitism be based on a particular definition of antisemitic conduct?
-Government responses to antisemitism should be based on an analysis of antisemitism. 
-
-# The International Holocaust Remembrance Alliance Working Definition of Antisemitism
-
-The International Holocaust Remembrance Alliance Working Definition of Antisemitism (henceforth, the IHRA Definition) defines antisemitism as 'a certain perception of Jews, which may be expressed as hatred toward Jews' [@ihra_definition_2016, p. 1].
-
-The background to the IHRA definition.
-
-> Antisemitic acts are criminal when they are so defined by law ...
-
-> Criminal acts are antisemitic when the targets ... are selected because they are, or are perceived to be, Jewish or linked to Jews.
-
-> Antisemitic discrimination is the denial to Jews of opportunities or services available to others, and is illegal in many countries. [@ihra_definition_2016, p. 2]
-
-International adoption of the IHRA definition by governments and institutions.
-
-Use of the IHRA definition to determine whether conduct is or is not antisemitic.
-
-Controversies arising in relation to the IHRA Definition and its examples.
-
-> Manifestations might include the targeting of the state of Israel, conceived as a Jewish collectivity. However, criticism of Israel similar to that levelled against any other country cannot be regarded as antisemitic. Antisemitism frequently charges Jews with conspiring to harm humanity, and it is often used to blame Jews for 'why things go wrong'. It is expressed in speech, writing, visual forms and action, and employs sinister stereotypes and negative character traits. [@ihra_definition_2016, p. 1]
-
-Eleven specific examples, of which seven mention Israel:
-
-> Accusing the Jews as a people, or Israel as a state, of inventing or exaggerating the Holocaust.
-
-> Accusing Jewish citizens of being more loyal to Israel, or to the alleged priorities of Jews worldwide, than to the interests of their own nations.
-
-> Denying the Jewish people their right to self-determination, e.g., by claiming that the existence of a State of Israel is a racist endeavor.
-
-> Applying double standards by requiring of it a behavior not expected or demanded of any other democratic nation.
-
->  Using the symbols and images associated with classic antisemitism (e.g., claims of Jews killing Jesus or blood libel) to characterize Israel or Israelis.
-
-> Drawing comparisons of contemporary Israeli policy to that of the Nazis.
-
-> Holding Jews collectively responsible for actions of the state of Israel. [@ihra_definition_2016, p. 2]
-
-# The main drivers of contemporary antisemitism in liberal democracies
-
-Similarities and differences with regard to earlier periods in history.
-
-Antisemitism 
-
-Islamism and other Muslim supremacist movements.
-
-# Zionism, antizionism, and antisemitism
 
 While the establishment of the state of Israel did not introduce a fundamental break into the historical development of antisemitism, it did ... especially in the Muslim world. ...
 
@@ -225,6 +138,89 @@ Community Security Trust in the UK:
 > There were 1766 antisemitic incidents that showed explicitly anti-Zionist motivation, comprising 48% of the annual total, compared to 43% in 2024 and 31% in 2023. It is noteworthy that, over the last three years, the proportion of antisemitic incidents that display ideological anti-Zionism alongside anti-Jewish language or targeting has grown by a larger proportion than incidents that simply
 contain Israel-related discourse. CST recorded 462 instances of anti-Jewish hate wherein the terms 'Zionism' or 'Zionist' were used, often as euphemisms for 'Jewishness' and 'Jew', or in conjunction with other antisemitic sentiment, rising from 423 cases in 2024 and 271 in 2023. Meanwhile, on 387 occasions, Israel, Israelis, or Jewish people were equated with Nazi Germany or
 the Nazis: a rise from 333 such examples in 2024 and 257 in 2023. [@cst_antisemitic_2026, p. 5]
+
+The most important thing to understand is that people who target Jews with hate crimes are not simply people in possession of negative stereotypical views of Jewish characteristics. Rather, they are people who have bought in --- to a greater or lesser extent --- to an ideology which purports to explain the history and present condition of the _entire world_, according Jews --- or 'Zionists' --- a central but villainous role in the story of the human race as a whole.
+
+It is only through an appreciation of this ideoloogy that it is possible to make sense of many crimes which target Jews, and of the often heroic self-image of the perpetrators, who often see themselves not as lashing out against innocent and often defenceless individuals, but as striking a blow against an almost cosmic evil whose destruction is necessary for the redemption of the world as a whole. For example, an official Nazi Party publication declared in 1937 that 'Jewry's ruthless drive for world domination was stopped only by National Socialism' [Quoted in @bytwerk_believing_2015, p. 214], while just a few years later, Hasan al-Banna gave the following eulogy for Amin al-Husseini:
+
+> The Mufti is Palestine and Palestine is the Mufti. Oh Amin! What a great, stubborn, terrific, wonderful man you are! All these years of exile did not affect your fighting spirit.
+
+> Hitler's and Mussolini's defeat did not frighten you. Your hair did not turn grey of fright and you are still full of life and fight.
+
+> ... Yes, this hero who challenged an empire and fought Zionism, with the help of Hitler and Germany. Germany and Hitler are gone, but Amin al-Husseini will continue the struggle.
+
+> ... The armies of colonisation occupied Germany and hoped to catch Amin, but he was too clever for them. He managed to escape to France and now he returns to his people to resume the struggle against the criminal British and against Zionism. [quoted in @herf_nazi_2009, p. 244]
+
+# X
+The historically complex nature of contemporary Jew-hate can be seen from a brief consideration of recent crimes in Australia targeting Jews and locations associated with Jews. In 2024, the office of the then Attorney General, Mark Drefus was vandalised, with the words 'Who does AG Mark Dreyfus serve?' being painted on the pavement outside [@buckley_antisemitic_2025]. Although the _occasion_ of this attack was the Israel-Hamas war, it functioned by invoking the longstanding antisemitic trope of Jewish loyalty to supposed international Jewish interests (as seen in Marr's polemics, and also in more influential antisemitic works, such as the _Protocols of the Elders of Zion_). A few months later, the office of Josh Burns --- another Jewish politician --- was attacked by arsonists who spray-painted horns onto a photograph of Burns and added the slogan, 'Zionism is fascism' [@abc_activists_2024]. This act of vandalism combined pseudo-political discourse with 13th century European depictions of Jews as demonic horned figures [@bertman_antisemitic_2009]. Shortly afterwards, the Sydney suburb of Woollahra, known for its large Jewish minority, saw a number of arson attacks combined with anti-Israel graffiti [@buckley_antisemitic_2025, n.p.], while Mount Sinai College --- a Jewish school --- was vandalised not only with the message 'fuck the Jews' but also with the words 'killers' and 'merderers [sic]' [@buckley_antisemitic_2025, n.p.; @willan_heightened_2025, 00:15]: accusations which may have been occasioned by the Israel-Hamas war, but which date back to Medieval Europe.  
+
+These examples (from which I have intentionally left out the massacre which prompted the official inquiry to which this report responds) illustrate two key points. The first is that contemporary acts of Jew-hate are saturated with historical baggage, and as such can only be understood by reference to the whole history of Jew-hate. The second is that, as at earlier stages in history, attacks on individual Jews are often rationalised in terms of the supposed evils of a Jewish or 'Zionist' collective. Whether we are to refer to this phenomenon as 'antisemitism' or as something else (and, for the sake of comprehensibility, this report will from this point onwards use the word 'antisemitism' in its ordinary sense, as defined by the Oxford English Dictionary at the beginning of this section), it is necessary to acknowledge these fundamental ideas.
+
+This is, indeed, the only way in which it is possible to understand the statement issued by Iran-backed Islamist group Harakat Ashab al-Yamin al-Islamia on the occasion of the stabbing of two visibly Jewish men in London while this report was in preparation:
+
+> Zionists were targeted by our lone wolves in the Golders Green area of London. The heroic act left two Zionists critically wounded and on the brink of death ...
+
+> Historically, the Jews are the killers of Jesus Christ, and today, the Zionists are the killers of innocent women and children.
+
+> We call upon all free people in the world, especially Muslims, to carry out qualitative operations in defense of humanity, occupied Palestine, al-Aqsa Mosque, and the prisoners. Furthermore, anyone who is able to kill Zionists should not hesitate. [Quoted in @starr_wounded_2026, n.p.]
+
+How is it possible to identify knife attacks against random members of the British public --- apparently singled out, in one case, on the basis of his religious clothing, and, in the other, on the basis of his having emerged from a place of worship --- as 'qualitative operations in defense of humanity'? It is possible because this has been the logic of Jew-hate since the birth of ideological antisemitism in the late 19th century.
+
+# Similarities and differences between antisemitism and other prejudices against racial, ethnic, and national groups
+While any religious, ethnic, or national group may become the object of prejudice and undeserved hostility, antisemitism is unique in that it is founded on an ancient, but constantly evolving body of counter-factual belief concerning the world as a whole. The difference between antisemitism and other forms of group-based hate in this regard may be illustrated by example. Here, I have arbitrarily chosen the example of prejudice and hostility faced by Australians of Samoan origin.
+
+Anti-Samoan bigotry is typically founded on a racist assumption that Samoans (and other indigenous Polynesians) are 'violent, unmotivated, and government-dependent' [@radclyffe_fob_2024, p. 1070]. This stereotype is very similar to stereotypes applied to many other immigrant groups, both in Australia and around the world. It would be extremely surprising to see anti-Samoan graffiti suggesting that Samoans are more loyal to Samoa than to Australia, or that Samoans are enemies of God, or that the Samoan government is fascist, or that the Samoan army kills non-Samoan children, or that Samoans and their supporters have an excessive influence on the Australian government --- and perhaps also the governments of other world powers. It would be still more surprising to see attacks on random Samoans justified as 'qualitative operations in defense of humanity'. The idea is bizarre, even verging on the ridiculous. Only Jews are spoken about in this way.
+
+Where other minority groups are targeted, this is often on the basis of a barely-examined xenophobic tendency to see the majority community as superior. But where Jews are targeted, this is typically on the basis of a longstanding network of interlocking beliefs about world history and politics: beliefs which may play an analogous role to religious faith (as in the case of the atheist Wilhelm Marr) or which may in turn be deeply interlocked with religious faith (as in the case of the Christian and Muslim antisemites discussed above). Individuals and political movements are likely to go to much greater lengths in their attacks and persecutions if they see their target as irredeemably evil, supremely powerful, and a threat to the entire world, than if they are motivated simply by a small-minded dislike of people different from themselves. This is, ultimately, why Nazi Germany perpetrated the Holocaust, and why the Islamic Republic has forced the people of Iran into penury for the sake of an unwinnable proxy war against Israel.
+
+None of this should be taken to imply that targeting of Jews is inherently _worse_ than the targeting of any other group: vandalism is vandalism, arson is arson, assault is assault, and murder is murder. What it means is that the targeting of Jews is motivated a peculiar way, and that this motivation is often very deeply ingrained, being strongly integrated with an individual's worldview, politics, and social identity. History shows us the extraordinary lengths to which Jew-haters have often been willing to go.
+
+# Should governmental responses to antisemitism be based on a particular definition of antisemitic conduct?
+Government responses to antisemitism should be based on an analysis of antisemitism. 
+
+# The International Holocaust Remembrance Alliance Working Definition of Antisemitism
+
+The International Holocaust Remembrance Alliance Working Definition of Antisemitism (henceforth, the IHRA Definition) defines antisemitism as 'a certain perception of Jews, which may be expressed as hatred toward Jews' [@ihra_definition_2016, p. 1].
+
+The background to the IHRA definition.
+
+> Antisemitic acts are criminal when they are so defined by law ...
+
+> Criminal acts are antisemitic when the targets ... are selected because they are, or are perceived to be, Jewish or linked to Jews.
+
+> Antisemitic discrimination is the denial to Jews of opportunities or services available to others, and is illegal in many countries. [@ihra_definition_2016, p. 2]
+
+International adoption of the IHRA definition by governments and institutions.
+
+Use of the IHRA definition to determine whether conduct is or is not antisemitic.
+
+Controversies arising in relation to the IHRA Definition and its examples.
+
+> Manifestations might include the targeting of the state of Israel, conceived as a Jewish collectivity. However, criticism of Israel similar to that levelled against any other country cannot be regarded as antisemitic. Antisemitism frequently charges Jews with conspiring to harm humanity, and it is often used to blame Jews for 'why things go wrong'. It is expressed in speech, writing, visual forms and action, and employs sinister stereotypes and negative character traits. [@ihra_definition_2016, p. 1]
+
+Eleven specific examples, of which seven mention Israel:
+
+> Accusing the Jews as a people, or Israel as a state, of inventing or exaggerating the Holocaust.
+
+> Accusing Jewish citizens of being more loyal to Israel, or to the alleged priorities of Jews worldwide, than to the interests of their own nations.
+
+> Denying the Jewish people their right to self-determination, e.g., by claiming that the existence of a State of Israel is a racist endeavor.
+
+> Applying double standards by requiring of it a behavior not expected or demanded of any other democratic nation.
+
+>  Using the symbols and images associated with classic antisemitism (e.g., claims of Jews killing Jesus or blood libel) to characterize Israel or Israelis.
+
+> Drawing comparisons of contemporary Israeli policy to that of the Nazis.
+
+> Holding Jews collectively responsible for actions of the state of Israel. [@ihra_definition_2016, p. 2]
+
+# The main drivers of contemporary antisemitism in liberal democracies
+
+Similarities and differences with regard to earlier periods in history.
+
+Antisemitism 
+
+Islamism and other Muslim supremacist movements.
 
 # Antisemitism as a threat to Jews
 
