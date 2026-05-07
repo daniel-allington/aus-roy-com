@@ -189,29 +189,10 @@ It is therefore only in context of the examples following the definition proper 
 
 At this point, it is perhaps encumbent on me to express my professional opinion that every single one of the examples is appropriate and well-chosen. However, the document explicitly states that these examples are only illustrative [@ihra_definition_2016, p. 1]. That is, they do not pretend to provide an exhaustive framework for identifying what is and is not antisemitic in human conduct. As such, they are unlikely to be of much use in resolving arguments as to whether a given act or statement should be regarded as antisemitic: a point that is emphasised by the caveat that the examples '_could_ ... include' certain kinds of speech 'taking into account the overall context' (emphasis added) [@ihra_definition_2016, p. 2]. Together with the explicit statement that the Definition is 'non-legally binding' and indeed only a 'working definition', this caveat clearly signals that the authors of the Definition wished to avoid any appearance of attempting to legislate the boundaries of acceptable speech and conduct.
 
-This is not a flaw of IHRA Definition, whose true purpose is that of a recording instrument. That is, it was not intended to establish certain acts as illegal, but only to support institutions in making decisions as to whether to categorise legal or illegal acts as antisemitic for reporting purposes. Indeed, the document states that '[a]ntisemitic acts are criminal when they are so defined by law' [@ihra_definition_2016, p. 2], which clearly implies that the legality of an act is independent of whether or not it is classifiable, under the Definition, as antisemitic. From this point of view, the key part of the document is perhaps the statement that 'Criminal acts are antisemitic when the targets ... are selected because they are, or are perceived to be, Jewish or linked to Jews' [@ihra_definition_2016, p. 2], and the remainder can potentially be considered to consist largely of guidelines which may help to identify whether the targets of a particular act were indeed selected because of a perception of being Jewish, or Jewish-linked.
+This is not a flaw of IHRA Definition, whose true purpose is that of a recording instrument. That is, it was not intended to establish certain acts as illegal, but only to support institutions in making decisions as to whether to categorise legal or illegal acts as antisemitic for reporting purposes. Indeed, the document states that '[a]ntisemitic acts are criminal when they are so defined by law' [@ihra_definition_2016, p. 2], which clearly implies that the legality of an act is independent of whether or not it is classifiable, under the Definition, as antisemitic. From this point of view, one of the pithiest parts of the document is the statement that 'Criminal acts are antisemitic when the targets ... are selected because they are, or are perceived to be, Jewish or linked to Jews' [@ihra_definition_2016, p. 2], and much the remainder can read as a set of informal guidelines or rules of thumb which may help to identify whether the targets of a particular act are indeed likely to have been selected because of a perception of being Jewish, or Jewish-linked. 
 
-In practice, however, the really important part of the document is comprised by the following two sentences:
+It is my view, however, that the most important part of the document is comprised by the following two sentences:
 
 > Manifestations [of antisemitism] might include the targeting of the state of Israel, conceived as a Jewish collectivity. However, criticism of Israel similar to that levelled against any other country cannot be regarded as antisemitic.  [@ihra_definition_2016, p. 1]
 
-
-
-Eleven specific examples, of which seven mention Israel:
-
-> Accusing the Jews as a people, or Israel as a state, of inventing or exaggerating the Holocaust.
-
-> Accusing Jewish citizens of being more loyal to Israel, or to the alleged priorities of Jews worldwide, than to the interests of their own nations.
-
-> Denying the Jewish people their right to self-determination, e.g., by claiming that the existence of a State of Israel is a racist endeavor.
-
-> Applying double standards by requiring of it a behavior not expected or demanded of any other democratic nation.
-
->  Using the symbols and images associated with classic antisemitism (e.g., claims of Jews killing Jesus or blood libel) to characterize Israel or Israelis.
-
-> Drawing comparisons of contemporary Israeli policy to that of the Nazis.
-
-> Holding Jews collectively responsible for actions of the state of Israel. [@ihra_definition_2016, p. 2]
-
-
-
+As this report has observed, many of those who identify as antizionists will strenuously insist that they are not antisemites, arguing that they are instead engaged in ordinary political discourse. This argument has a certain surface plausibility: clearly, it can be no less legitimate to criticise Zionism than any other political ideology, and no less legitimate to criticise Israeli government policy than policy of any other national government. However, it does not follow from this obvious point that _all_ discourse on Israel or Zionism is _by definition_ free of antisemitism. Indeed, this report has provided plenty of evidence that such is not the case. By adopting this part of the document in which the IHRA Definition is presented, an institution both acknowledges that discourse on Israel and Zionism is now the _primary_ means by which antisemitic incitement is expressed and also protects legitimate political expression (thereby refuting the most obvious and facile objections to the Definition, on which a great deal of time might otherwise be wasted). As to how the difference between the two might be recognised, the seven of the document's eleven specific examples which mention Israel ('Accusing the Jews as a people, or Israel as a state, of inventing or exaggerating the Holocaust', 'Accusing Jewish citizens of being more loyal to Israel, or to the alleged priorities of Jews worldwide, than to the interests of their own nations', etc [@ihra_definition_2016, p. 2]) provide an excellent starting point.
