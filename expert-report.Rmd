@@ -1,7 +1,8 @@
 ---
 title: "Expert Report for the Royal Commission on Antisemitism and Social Cohesion"
+subtitle: 'Modified following counsel comments'
 author: "Daniel Allington"
-date: "2026-05-07"
+date: "2026-05-10"
 output:
   word_document: default
   html_document: default
@@ -199,6 +200,28 @@ It is my view, however, that the most important part of the document is comprise
 
 > Manifestations [of antisemitism] might include the targeting of the state of Israel, conceived as a Jewish collectivity. However, criticism of Israel similar to that levelled against any other country cannot be regarded as antisemitic.  [@ihra_definition_2016, p. 1]
 
-As this report has observed, many of those who identify as antizionists will strenuously insist that they are not antisemites, arguing that they are instead engaged in ordinary political discourse. This argument has a certain surface plausibility: clearly, it can be no less legitimate to criticise Zionism than any other political ideology, and no less legitimate to criticise Israeli government policy than policy of any other national government. However, it does not follow from this obvious point that _all_ discourse on Israel or Zionism is _by definition_ free of antisemitism. Indeed, this report has provided plenty of evidence that such is not the case. By adopting this part of the document in which the IHRA Definition is presented, an institution both acknowledges that discourse on Israel and Zionism is now the _primary_ means by which antisemitic incitement is expressed and also protects legitimate political expression (thereby refuting the most obvious and facile objections to the Definition, on which a great deal of time might otherwise be wasted). As to how the difference between the two might be recognised, the seven of the document's eleven specific examples which mention Israel ('Accusing the Jews as a people, or Israel as a state, of inventing or exaggerating the Holocaust', 'Accusing Jewish citizens of being more loyal to Israel, or to the alleged priorities of Jews worldwide, than to the interests of their own nations', etc [@ihra_definition_2016, p. 2]) provide an excellent starting point.
+As this report has observed, many of those who identify as antizionists will strenuously insist that they are not antisemites, arguing that they are instead engaged in ordinary political discourse. This argument has a certain surface plausibility: clearly, it can be no less legitimate to criticise Zionism than any other political ideology, and no less legitimate to criticise Israeli government policy than the policy of any other national government. However, it does not follow from this obvious point that _all_ discourse on Israel or Zionism is _by definition_ free of antisemitism. Indeed, this report has provided plenty of evidence that such is not the case. By adopting this part of the document, an institution both acknowledges that discourse on Israel and Zionism is now the _primary_ means by which antisemitic incitement is expressed and also protects legitimate political expression --- thereby refuting the most obvious and facile objections to the Definition, on which a great deal of time might otherwise be wasted.
+
+On the subject of objections, it is worth noting that, while those who identify as antizionists insist on a 'radical discontinuity' between antisemitism and their own political position [@seymour_continuity_2019, p. 12], and thus tend to reject the IHRA Definition, the idea of such a discontinuity is supported by _neither_ of its rivals, i.e. the Jerusalem Declaration on Antisemitism [@jerusalem_declaration_2021] and the Nexus Document [@nexus_document_2021]. Indeed, each provides no less than five distinct examples of antisemitic orientations to Israel [@jerusalem_declaration_2021, p. 2-3; @nexus_document_2021, p. 1]. Thus, while scholarly debate exists over competing definitions of antisemitism [See in particular @harrison_defence_2020; @nelson_accommodating_2021; @bogle_contemporary_2022; @harrison_defence_2022; @penslar_afraid_2022; @steinberg_central_2022; @wallach_fight_2022], the existence of such debate cannot credibly be used in order to undermine the basic insight of the IHRA Definition, encapsulated in the two sentences quoted above --- namely that, while Israel is rightly subject to the usual sorts of criticism to which a country might be subject, there also exist very common ways of talking about Israel that recognisably form part of an ancient but constantly adapting tradition of anti-Jewish incitement and invective.
+
+As to how the difference between the two might be recognised, the seven of the IHRA Definition's eleven supporting examples which mention Israel provide an excellent starting point. These are as follows:
+
+- Accusing the Jews as a people, or Israel as a state, of inventing or exaggerating the Holocaust.
+
+- Accusing Jewish citizens of being more loyal to Israel, or to the alleged priorities of Jews worldwide, than to the interests of their own nations.
+
+- Denying the Jewish people their right to self-determination, e.g., by claiming that the existence of a State of Israel is a racist endeavor.
+
+- Applying double standards by requiring of [Israel] a behavior not expected or demanded of any other democratic nation.
+
+- Using the symbols and images associated with classic antisemitism (e.g., claims of Jews killing Jesus or blood libel) to characterize Israel or Israelis.
+
+- Drawing comparisons of contemporary Israeli policy to that of the Nazis.
+
+- Holding Jews collectively responsible for actions of the state of Israel. [@ihra_definition_2016, p. 2])
+
+Again, however, these examples are not, were not intended as, and should never be taken to constitute an exhaustive framework for the identification of antisemitism --- much less, of the boundaries between incitement and protected political speech. In particular, they contain no mention of Islamist and more broadly Islamic traditions of anti-Jewish thinking, nor any mention of what Louis-Klein (quoted above) identifies as the 'nucleus' of modern Israel-hate in the West, i.e. the 'coloniser, apartheid, and genocide libels'. 
+
+Adoption of the IHRA Definition may thus be seen as public acknowledgement that steps need to be taken in a certain direction. However, unless it is accompanied by a commitment to continued analysis and re-analysis of real-world anti-Jewish incitement, it is likely to have few practical consequences.
 
 # Bibliography
